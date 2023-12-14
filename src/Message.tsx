@@ -1,5 +1,3 @@
-import React from "react";
-
 function Message() {
   const name = "Diwan";
   return <div>Message sent to {`${name}`}</div>;
